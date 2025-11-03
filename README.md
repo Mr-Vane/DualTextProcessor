@@ -34,10 +34,8 @@ El proyecto automatiza dos pasos cruciales en el preprocesamiento de datos:
 
 Asegúrate de tener Python instalado en tu sistema.
 
-El único requisito de librería externa es `numpy`:
-
 ```bash
-pip install numpy>=1.21.0
+pip install -r requirements.txt
 ```
 
 ### Estructura del Proyecto
@@ -109,4 +107,3 @@ Además, se crearán los archivos de mapeo de vocabulario en `data/tokens/`:
 ## 🤝 Contribuciones
 
 Cualquier contribucion es bienvenida.
-Las contribuciones son bienvenidas.
